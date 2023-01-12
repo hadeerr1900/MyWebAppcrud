@@ -32,7 +32,8 @@ spring.datasource.url=jdbc:mysql://localhost:3306/employeecrud?useSSL=false&serv
 
 spring.datasource.username=root
 
-spring.datasource.password=hadeer
+spring.datasource.password=
+
 
 #mySql version 8.0
 
@@ -55,3 +56,14 @@ logging.level.org.hibernate.cache=DEBUG
 logging.level.org.hibernate.stat=DEBUG
 
 logging.level.org.hibernate.type=DEBUG
+
+
+
+
+
+![Screenshot (73)](https://user-images.githubusercontent.com/60439912/212092941-606a0348-3077-451f-bc14-f0f348a77f1e.png)
+![Screenshot (74)](https://user-images.githubusercontent.com/60439912/212094033-c1676785-21d7-4c36-a64d-1feeff554910.png)
+
+
+
+
